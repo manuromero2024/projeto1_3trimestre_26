@@ -1,1 +1,5 @@
-
+index.html <script type="module" src="graficos/redesFavoritasMundo.js"></script>
+async function redesFavoritasMundo() {async function redesFavoritasMundo() {
+  const url =
+    "https://raw.githubusercontent.com/guilhermeonrails/api/main/redes-favoritas.json";
+}
